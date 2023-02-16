@@ -51,7 +51,7 @@
 
             <div class="property">
                <span> Example:</span>
-               <span> ${data.meanings[1].definitions[0].example} </span>
+               <span> ${data.meanings[0].definitions[0].example} </span>
             </div>
 
             <div class="property">
